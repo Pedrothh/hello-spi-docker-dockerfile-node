@@ -1,0 +1,12 @@
+{
+    "name": "hello-spi-docker-dockerfile-node",
+    "version": "1.0.0",
+    "description": "Aplicativo Node.js para o Docker",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Pedro Thomé",
+    "license": "MIT"
+  }
+  
